@@ -17,10 +17,5 @@ body {
 title {
      text-align: center;
 }
-h1,h2{
-    border-style:solid;
-}
-h3{text-decoration: underline;
-    text-decoration-color:white;
-}
+
 
